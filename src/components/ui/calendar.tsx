@@ -9,9 +9,7 @@ import {
 } from "react-day-picker"
 
 import { cn } from "@/lib/utils"
-import { Button } from "@/components/ui/button"
-import { buttonVariants } from "@/components/ui/button-variants"
-import { IconChevronLeft, IconChevronRight, IconChevronDown } from "@tabler/icons-react"
+import { Button, buttonVariants } from '@/components/ui/button';import { IconChevronLeft, IconChevronRight, IconChevronDown } from "@tabler/icons-react"
 
 function Calendar({
   className,

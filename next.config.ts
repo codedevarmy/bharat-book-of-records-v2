@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'bharat-books-of-record.netlify.app',
+        hostname: 'bharat-book-of-records-v2-cpnt.vercel.app',
       },
     ],
   },
